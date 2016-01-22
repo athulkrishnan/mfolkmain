@@ -1,5 +1,5 @@
-**MouseFolk Frontend**
+**Frontend code for MouseFolk**
 
-Frontend for MouseFolk.com
+[MouseFolk.com](https://wwww.MouseFolk.com/)
 
-Interested in further development? Give a pull request.
+MouseFolk is a marketplace for art.
