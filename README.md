@@ -1,5 +1,5 @@
 **Frontend code for MouseFolk**
 
-[MouseFolk.com](https://wwww.MouseFolk.com/)
+[MouseFolk.com](http://www.MouseFolk.com/)
 
 MouseFolk is a marketplace for art.
